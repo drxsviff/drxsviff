@@ -1,16 +1,22 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=drxsviff&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&height=80&lines=System+Online:+drxsviff;Role:+Elite+Developer;Experience:+7%2B+Years;Status:+Ready+to+Code+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shiryel/shiryel/main/assets/space-cat.webp" height="100" />
+  <img src="https://raw.githubusercontent.com/shiryel/shiryel/main/assets/space-cat.webp" height="150" />
 </p>
 
 <div align="center">
   <a href="https://discord.com/users/563088164906991627">
-    <img src="https://lanyard.cnrad.dev/api/563088164906991627" />
+    <img src="https://lanyard.cnrad.dev/api/563088164906991627?borderRadius=5px&idleMessage=Probably+coding+something+cool..." />
   </a>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -41,7 +47,7 @@
 const developer = {
     name: "drxsviff",
     status: "🟢 Online",
-    experience: "5+ Years",
+    experience: "7+ Years",
     roles: [
         "Full Stack Architect",
         "Discord Bot Expert",
@@ -64,69 +70,30 @@ const developer = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-⚡ Technical Mastery
+## ⚡ Technical Mastery & Languages
 
-💻 Core Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,kotlin,rust,go,cpp,cs,php,ruby,swift,dart,html,css,react,nextjs,vue,nuxtjs,angular,svelte,tailwind,bootstrap,flutter,nodejs,deno,django,fastapi,mongodb,postgres,mysql,redis,docker,kubernetes,aws,linux,github,git,graphql,nginx&perline=10" />
+</p>
 
-Language Proficiency
-JavaScript/TypeScript <img src="https://progress-bar.dev/100/?title=Master&width=300&color=aa00ff" />
-Python <img src="https://progress-bar.dev/100/?title=Master&width=300&color=00aaff" />
-Java/Kotlin <img src="https://progress-bar.dev/99/?title=Expert&width=300&color=ffaa00" />
-Rust <img src="https://progress-bar.dev/97/?title=Expert&width=300&color=ff6600" />
-Go <img src="https://progress-bar.dev/98/?title=Expert&width=300&color=00cc99" />
-C++/C# <img src="https://progress-bar.dev/98/?title=Expert&width=300&color=9933ff" />
-PHP <img src="https://progress-bar.dev/96/?title=Advanced&width=300&color=777BB4" />
-Ruby <img src="https://progress-bar.dev/95/?title=Advanced&width=300&color=CC342D" />
-Swift <img src="https://progress-bar.dev/94/?title=Advanced&width=300&color=FA7343" />
-Dart <img src="https://progress-bar.dev/95/?title=Advanced&width=300&color=02569B" />
+### 💻 Proficiency Details
 
-🎨 Frontend Engineering
-
-Technology Level
-React / Next.js <img src="https://progress-bar.dev/100/?title=Master&width=300&color=61DAFB" />
-Vue / Nuxt <img src="https://progress-bar.dev/98/?title=Expert&width=300&color=4FC08D" />
-Angular <img src="https://progress-bar.dev/97/?title=Expert&width=300&color=DD0031" />
-Svelte / SvelteKit <img src="https://progress-bar.dev/96/?title=Expert&width=300&color=FF3E00" />
-HTML5 / CSS3 <img src="https://progress-bar.dev/100/?title=Master&width=300&color=E34F26" />
-Tailwind / Bootstrap <img src="https://progress-bar.dev/100/?title=Master&width=300&color=38B2AC" />
-Flutter <img src="https://progress-bar.dev/95/?title=Advanced&width=300&color=02569B" />
-
-⚙️ Backend & Infrastructure
-
-Technology Level
-Node.js / Deno <img src="https://progress-bar.dev/100/?title=Master&width=300&color=68A063" />
-Python (Django, FastAPI) <img src="https://progress-bar.dev/100/?title=Master&width=300&color=3776AB" />
-SQL / NoSQL Databases <img src="https://progress-bar.dev/100/?title=Master&width=300&color=4479A1" />
-Docker / Kubernetes <img src="https://progress-bar.dev/98/?title=Expert&width=300&color=2496ED" />
-GraphQL / REST APIs <img src="https://progress-bar.dev/100/?title=Master&width=300&color=E10098" />
-Cloud (AWS/Azure/GCP) <img src="https://progress-bar.dev/97/?title=Expert&width=300&color=FF9900" />
-Redis / Message Queues <img src="https://progress-bar.dev/97/?title=Expert&width=300&color=DC382D" />
-Linux / System Admin <img src="https://progress-bar.dev/98/?title=Expert&width=300&color=FCC624" />
-
-🤖 Discord Bot Development
-
-Library/Framework Level
-Discord.js (v13/v14) <img src="https://progress-bar.dev/100/?title=Master&width=300&color=5865F2" />
-Discord.py <img src="https://progress-bar.dev/100/?title=Master&width=300&color=7289DA" />
-JDA (Java) <img src="https://progress-bar.dev/99/?title=Expert&width=300&color=ED8B00" />
-Bot Architecture <img src="https://progress-bar.dev/100/?title=Master&width=300&color=9146FF" />
-API Integration <img src="https://progress-bar.dev/100/?title=Master&width=300&color=00bfff" />
-Database Design <img src="https://progress-bar.dev/100/?title=Master&width=300&color=00b300" />
+| Language | Mastery Level |
+| :--- | :--- |
+| **JavaScript / TypeScript** | <img src="https://progress-bar.dev/100/?title=Master&width=300&color=aa00ff" /> |
+| **Python** | <img src="https://progress-bar.dev/100/?title=Master&width=300&color=00aaff" /> |
+| **Java / Kotlin** | <img src="https://progress-bar.dev/99/?title=Expert&width=300&color=ffaa00" /> |
+| **Rust / Go** | <img src="https://progress-bar.dev/98/?title=Expert&width=300&color=ff6600" /> |
+| **C++ / C#** | <img src="https://progress-bar.dev/98/?title=Expert&width=300&color=9933ff" /> |
+| **Frontend (React/Next/Vue)** | <img src="https://progress-bar.dev/100/?title=Master&width=300&color=61DAFB" /> |
+| **Backend (Node/Django)** | <img src="https://progress-bar.dev/100/?title=Master&width=300&color=68A063" /> |
+| **Discord Bot Dev** | <img src="https://progress-bar.dev/100/?title=Master&width=300&color=5865F2" /> |
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/drxsviff?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drxsviff&repo=drxsviff&theme=radical&show_owner=true" width="45%" />
-  </a>
-  <a href="https://github.com/drxsviff?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drxsviff&repo=drxsviff&theme=radical&show_owner=true" width="45%" />
-  </a>
-</p>
+## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/drxsviff?tab=repositories">
@@ -141,7 +108,7 @@ Database Design <img src="https://progress-bar.dev/100/?title=Master&width=300&c
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:santadisx@gmail.com">
@@ -159,25 +126,18 @@ Database Design <img src="https://progress-bar.dev/100/?title=Master&width=300&c
   <a href="https://github.com/drxsviff">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/drxsviff">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a>
 </p>
 
-🎧 Now Playing
+## 🎧 Now Playing
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=drxsviff&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=ff00aa&bar_color_cover=true" />
 </p>
 
-🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/drxsviff/drxsviff/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/drxsviff/drxsviff/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/drxsviff/drxsviff/blob/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/drxsviff/drxsviff/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -193,5 +153,6 @@ Database Design <img src="https://progress-bar.dev/100/?title=Master&width=300&c
 </p>
 
 <p align="center">
-  <strong>⚡ 7+ Years of Experience • Ready for challenges • Let's build something amazing ⚡</strong>
+  <strong>⚡ 5+ Years of Experience • Ready for challenges • Let's build something amazing ⚡</strong>
 </p>
+
