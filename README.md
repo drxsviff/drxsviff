@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&height=80&lines=System+Online:+drxsviff;Role:+Elite+Developer;Experience:+7%2B+Years;Status:+Ready+to+Code+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&height=80&lines=System+Online:+drxsviff;Role:+Elite+Developer;Experience:+5%2B+Years;Status:+Ready+to+Code+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 const developer = {
     name: "drxsviff",
     status: "🟢 Online",
-    experience: "7+ Years",
+    experience: "5+ Years",
     roles: [
         "Full Stack Architect",
         "Discord Bot Expert",
@@ -76,18 +76,18 @@ const developer = {
   <img src="https://skillicons.dev/icons?i=js,ts,py,java,kotlin,rust,go,cpp,cs,php,ruby,swift,dart,html,css,react,nextjs,vue,nuxtjs,angular,svelte,tailwind,bootstrap,flutter,nodejs,deno,django,fastapi,mongodb,postgres,mysql,redis,docker,kubernetes,aws,linux,github,git,graphql,nginx&perline=10" />
 </p>
 
-### 💻 Proficiency Details
+### 💻 Mastery Levels
 
-| Language | Mastery Level |
+| Skill / Technology | Proficiency Level |
 | :--- | :--- |
 | **JavaScript / TypeScript** | <img src="https://progress-bar.dev/100/?title=Master&width=300&color=aa00ff" /> |
-| **Python** | <img src="https://progress-bar.dev/100/?title=Master&width=300&color=00aaff" /> |
-| **Java / Kotlin** | <img src="https://progress-bar.dev/99/?title=Expert&width=300&color=ffaa00" /> |
-| **Rust / Go** | <img src="https://progress-bar.dev/98/?title=Expert&width=300&color=ff6600" /> |
-| **C++ / C#** | <img src="https://progress-bar.dev/98/?title=Expert&width=300&color=9933ff" /> |
-| **Frontend (React/Next/Vue)** | <img src="https://progress-bar.dev/100/?title=Master&width=300&color=61DAFB" /> |
-| **Backend (Node/Django)** | <img src="https://progress-bar.dev/100/?title=Master&width=300&color=68A063" /> |
+| **Python / FastAPI** | <img src="https://progress-bar.dev/100/?title=Master&width=300&color=00aaff" /> |
+| **Java / Kotlin / Rust** | <img src="https://progress-bar.dev/99/?title=Expert&width=300&color=ffaa00" /> |
+| **C++ / C# / Go** | <img src="https://progress-bar.dev/98/?title=Expert&width=300&color=9933ff" /> |
+| **React / Next.js / Vue** | <img src="https://progress-bar.dev/100/?title=Master&width=300&color=61DAFB" /> |
+| **Node.js / Backend** | <img src="https://progress-bar.dev/100/?title=Master&width=300&color=68A063" /> |
 | **Discord Bot Dev** | <img src="https://progress-bar.dev/100/?title=Master&width=300&color=5865F2" /> |
+| **Docker / K8s / Cloud** | <img src="https://progress-bar.dev/98/?title=Expert&width=300&color=2496ED" /> |
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
